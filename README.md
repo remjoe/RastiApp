@@ -1,4 +1,4 @@
-# Rastiapp
+# Rästiapp
 [Esittelyvideo](https://youtu.be/AWlhP8go3rE)
 ## Selitykset
 ### TaskViewModel

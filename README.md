@@ -1,5 +1,5 @@
 # Rastiapp
-(Esittelyvideo)[https://youtube.com]
+[Esittelyvideo](https://youtube.com)
 ## Selitykset
 ### TaskViewModel
 TaskViewModel hallitsee sovelluksen tilaa. Se pitää sisällään tehtävälistan "tasks" ja API:sta haetun tekstin "apiResult". ViewModel tarjoaa funktiot tehtävän lisäämiseen ja tilan vaihtamiseen (tehty/ei tehty).
